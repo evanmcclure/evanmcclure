@@ -4,6 +4,13 @@ name: Update badges
 #   schedule:
 #     # Runs at 0am UTC every day
 #     - cron: "0 0 * * *"
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
 jobs:
   update-readme:
     name: Update Readme with badges
