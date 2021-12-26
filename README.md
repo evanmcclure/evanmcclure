@@ -6,8 +6,7 @@
 
 ## 🎓 Certificates & Trainings
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/d2784bd4-16b2-49a2-95db-e9a8d4b47b82 "CKAD: Certified Kubernetes Application Developer")
 
 <!--
 **evanmcclure/evanmcclure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
