@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evanmcclure" alt="evanmcclure" /></a> </p>
 
-- 🔭 I’m currently working on [yql](https://github.com/evanmcclure/yql)
+- 🔭 I’m currently working on a handheld hand-written digit recognizer on embedded using Rust.
 
 - 📫 How to reach me **evanmcclure@gmail.com**
 
