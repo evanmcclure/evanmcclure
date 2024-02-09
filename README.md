@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **evanmcclure@gmail.com**
 
-- ⚡ Fun fact **I am remastering all of my maths. I completed over 6,000 problems and I'm studying geometry, trigonometry, linear algebra, and mathematical optimization currently.**
+- ⚡ Fun fact **I am remastering all of my maths. I completed over 7,000 problems and I'm studying calculus currently. Also, I'm learning Rust for embedded systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
